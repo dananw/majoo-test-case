@@ -7,7 +7,7 @@ go to directory:
 
 ```cd majoo-test```
 
-Install Module: 
+Install Module: edited 2
 ```bash
 npm install
 # or
