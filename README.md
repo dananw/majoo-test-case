@@ -3,7 +3,7 @@
 clone this repo: 
 ```git clone https://github.com/dananw/majoo-test-case.git```
 
-go to directory:
+go to directory: edited 1
 
 ```cd majoo-test```
 
