@@ -5,7 +5,7 @@ clone this repo:
 
 go to directory:
 
-```cd majoo-test edited```
+```cd majoo-test```
 
 Install Module: 
 ```bash
