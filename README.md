@@ -15,7 +15,7 @@ yarn install
 ```
 
 
-Run the development server:
+Run the development server: edited 3
 
 ```bash
 npm run dev
